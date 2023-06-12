@@ -53,7 +53,7 @@ You should now have two folder ```openfoam-data``` and ```openfoam-dockerfiles``
 *2d)* Now, make sure Docker is running before continuing. In Linux you can start a docker session by:
 
 ```shell
-sudo dockerd
+dockerd
 ```
 
 *2e)* Build the OpenFOAM image:
